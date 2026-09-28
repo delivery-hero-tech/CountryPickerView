@@ -1,0 +1,14 @@
+CountryPickerView.xcodeproj/project.pbxproj
+  h_0f19d15cb4e1cd 836,858
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "be3f4ebd2b93c92e2f17e6ea3e0722dd831804da",
+  "prompts": {},
+  "humans": {
+    "h_0f19d15cb4e1cd": {
+      "author": "Sergii Sukhanov <sergii.sukhanov@deliveryhero.com>"
+    }
+  }
+}
